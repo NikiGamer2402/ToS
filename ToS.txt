@@ -1,0 +1,11 @@
+1. The bot must not be used for any illegal activities. 
+2. The bot must not be used to harass or threaten other users. 
+3. The bot must not be used to distribute malicious software or other malicious code. 
+4. The bot must not be used to collect or store any personal data from users without their explicit consent. 
+5. The bot must not be used to send unsolicited messages or advertising. 
+6. The bot must not be used to disrupt or interfere with the operation of any other Discord server. 
+7. The usage of bot must comply with all applicable laws and regulations. 
+8. The bot must not be used to impersonate other users. 
+9. The bot must not be used to violate any of Discord's ToS. 
+10. The bot must not be used to violate any applicable laws or regulations.
+11. The bot must not be used to retrieve any sensitive information through its chat-bot feature.
